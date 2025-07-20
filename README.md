@@ -2,7 +2,7 @@
 
 Cardify is a modern, responsive web app built with Next.js and React that helps users discover and compare credit cards using AI. Users can filter cards by bank, type, features, and more, and get personalized recommendations powered by Gemini AI.
 
----
+--- 
 
 ## 🚀 Features
 
